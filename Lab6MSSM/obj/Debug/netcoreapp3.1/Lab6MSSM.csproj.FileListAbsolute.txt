@@ -1,0 +1,13 @@
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\bin\Debug\netcoreapp3.1\Lab6MSSM.exe
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\bin\Debug\netcoreapp3.1\Lab6MSSM.deps.json
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\bin\Debug\netcoreapp3.1\Lab6MSSM.runtimeconfig.json
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\bin\Debug\netcoreapp3.1\Lab6MSSM.runtimeconfig.dev.json
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\bin\Debug\netcoreapp3.1\Lab6MSSM.dll
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\bin\Debug\netcoreapp3.1\Lab6MSSM.pdb
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.csprojAssemblyReference.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.AssemblyInfoInputs.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.AssemblyInfo.cs
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.dll
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.pdb
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab6\Lab6MSSM\Lab6MSSM\obj\Debug\netcoreapp3.1\Lab6MSSM.genruntimeconfig.cache
